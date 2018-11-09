@@ -13,25 +13,31 @@ div {
 }
 
 .btn {
-
+font-family: sans-serif;
+color: #000;
 }
 
 .btn-small {
-
+font-family: sans-serif;
+color: #
 }
 
 .btn-big {
-
+font-family: sans-serif;
+color: #
 }
 
 .btn-subtle {
-
+font-family: sans-serif;
+color: #ccc;
 }
 
 .btn-ghost {
-
+font-family: sans-serif;
+color: #fff;
 }
 
 .btn-warning {
-
+font-family: sans-serif;
+color: #f33;
 }
