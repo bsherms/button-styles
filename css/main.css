@@ -32,6 +32,8 @@ div {
 .btn-ghost {
   padding: .4em .75em .3em;
   background-color: #fff;
+  border-color: #000;
+  border-radius: 8px;
   font-family: sans-serif;
   font-size: 1.125rem;
   color: #000;
