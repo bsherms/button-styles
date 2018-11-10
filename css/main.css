@@ -16,8 +16,7 @@ div {
   display: inline-block;
   padding: .4em .75em;
   margin: .125em;
-  border-width: 3px;
-  border-color: #f33;
+  border: 3px solid;
   border-radius: 8px;
   background-color: #000;
   text-decoration: none;
