@@ -14,8 +14,8 @@ div {
 
 .btn {
   display: inline-block;
-  padding: .4em .75em;
-  margin: .125em;
+  padding: .4em .75em .3em;
+  margin: .01em;
   border: 3px solid;
   border-radius: 8px;
   background-color: #000;
