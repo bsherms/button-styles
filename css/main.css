@@ -23,6 +23,10 @@ div {
   color: #fff;
 }
 
+.btn:hover {
+  background-color: none;
+}
+
 .btn-subtle {
   background-color: #ccc;
   font-family: sans-serif;
