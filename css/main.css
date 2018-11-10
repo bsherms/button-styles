@@ -29,17 +29,30 @@ div {
   color: #fff;
 }
 
+.btn-subtle:hover {
+  background-color: #666;
+}
+
 .btn-ghost {
-  border-color: #000;
+  border-width: 3px;
+  border-color: #333;
   background-color: #fff;
   font-family: sans-serif;
   color: #000;
+}
+
+.btn-ghost:hover {
+  background-color: #666;
 }
 
 .btn-warning {
   background-color: #f33;
   font-family: sans-serif;
   color: #fff;
+}
+
+.btn-warning:hover {
+  background-color: #933;
 }
 
 .btn-small {
