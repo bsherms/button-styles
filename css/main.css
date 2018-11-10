@@ -15,6 +15,7 @@ div {
 .btn {
   display: inline-block;
   padding: .4em .75em .3em;
+  border-radius: 8px;
   background-color: #000;
   text-decoration: none;
   font-family: sans-serif;
@@ -30,7 +31,6 @@ div {
 
 .btn-ghost {
   border-color: #000;
-  border-radius: 8px;
   background-color: #fff;
   font-family: sans-serif;
   color: #000;
