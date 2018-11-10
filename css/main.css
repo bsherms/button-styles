@@ -23,8 +23,6 @@ div {
 }
 
 .btn-subtle {
-  display: inline-block;
-  padding: .4em .75em .3em;
   background-color: #ccc;
   text-decoration: none;
   font-family: sans-serif;
@@ -32,19 +30,15 @@ div {
 }
 
 .btn-ghost {
-  display: inline-block;
-  padding: .4em .75em .3em;
-  background-color: #fff;
   border-color: #000;
   border-radius: 8px;
+  background-color: #fff;
   text-decoration: none;
   font-family: sans-serif;
   color: #000;
 }
 
 .btn-warning {
-  display: inline-block;
-  padding: .4em .75em .3em;
   background-color: #f33;
   text-decoration: none;
   font-family: sans-serif;
