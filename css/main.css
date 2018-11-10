@@ -24,7 +24,7 @@ div {
 }
 
 .btn:hover {
-  background-color: none;
+  background-color: #333;
 }
 
 .btn-subtle {
